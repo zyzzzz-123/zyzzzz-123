@@ -1,7 +1,7 @@
 ### Hi there, I'm Yuzhe Zhang!👋
 
 <a href="https://github.com/zyzzzz-123">
-  <img src="https://github-readme-stats.vercel.app/api?usernamezyzzzz-123&show_icons=true" alt="Daniel-ChenJH's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?usernamezyzzzz-123&show_icons=true" alt="zyzzzz-123's GitHub Stats" />
 </a>
 
 
@@ -13,11 +13,11 @@ Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 fro
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Computer vision, Reinforcement Learning, etc..;
+- 🌱 I’m currently learning Deep Learning and Reinforcement Learning; 
+- 🤔 My interests are with Computer vision, Reinforcement Learning, C++ etc..;
 - 💼 I’m pursuing a Bachelor's degree in Information Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via 13760280318@163.com to reach me.
+- 📫 Please email via zyz20010203@sjtu.edu.cn to reach me.
 
 
 
@@ -37,8 +37,8 @@ Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 fro
 
 ### My latest projects
 
-<a href="https://github.com/Daniel-ChenJH/Course-Bullying-in-SJTU">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Course-Bullying-in-SJTU" alt="Course-Bullying-in-SJTU" />
+<a href="https://github.com/zyzzzz-123/AI_enabled-Physical-layer-anti-interference">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=zyzzzz-123&repo=AI_enabled-Physical-layer-anti-interference" alt="AI_enabled-Physical-layer-anti-interference" />
 </a>  
   
 <a href="https://github.com/Daniel-ChenJH/Masked-Unmasked-Face-Recognition">
