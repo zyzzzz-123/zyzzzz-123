@@ -13,7 +13,7 @@ Hi there, I'm **zyzzzz-123**, an **Information Engineering student** 🚀 from S
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Deep Learning and Reinforcement Learning; 
+- 🌱 I’m currently doing research on semantic communication, learning various algorithms; 
 - 🤔 My interests are with Computer vision, Reinforcement Learning, C++ etc..;
 - 💼 I’m pursuing a Bachelor's degree in Information Engineering;
 - 💬 Ask me about anything, I am happy to help;
