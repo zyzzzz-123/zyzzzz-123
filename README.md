@@ -1,7 +1,7 @@
 ### Hi there, I'm Yuzhe Zhang!👋
 
 <a href="https://github.com/zyzzzz-123">
-  <img src="https://github-readme-stats.vercel.app/api?usernamezyzzzz-123&show_icons=true" alt="zyzzzz-123's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zyzzzz-123&show_icons=true" alt="zyzzzz-123's GitHub Stats" />
 </a>
 
 
@@ -41,8 +41,8 @@ Hi there, I'm **Daniel-ChenJH**, an **Information Engineering student** 🚀 fro
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=zyzzzz-123&repo=AI_enabled-Physical-layer-anti-interference" alt="AI_enabled-Physical-layer-anti-interference" />
 </a>  
   
-<a href="https://github.com/Daniel-ChenJH/Masked-Unmasked-Face-Recognition">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Daniel-ChenJH&repo=Masked-Unmasked-Face-Recognition" alt="Masked-Unmasked-Face-Recognition" />
+<a href="https://github.com/zyzzzz-123/GANproject">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=zyzzzz-123&repo=GANproject" alt="GANproject" />
 </a>
 
 
