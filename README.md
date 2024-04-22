@@ -6,18 +6,17 @@
 
 
   
-Hi there, I'm **zyzzzz-123**, an **Information Engineering student** 🚀 from Shanghai. Currently, I'm a junior student in Shanghai Jiao Tong University.👨🏽‍💼. 
+Hi there, I'm **zyzzzz-123**, an **Master student** 🚀 from Beijing.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently doing research on semantic communication, learning various algorithms; 
-- 🤔 My interests are with Computer vision, Reinforcement Learning, C++ etc..;
-- 💼 I’m pursuing a Bachelor's degree in Information Engineering;
+- 🌱 I’m currently doing research on Large language models; 
+- 🤔 My interests are with post training algorithms in LLM and various applications;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via zyz20010203@sjtu.edu.cn to reach me.
+- 📫 Please email via zhang-yz23@mails.tsinghua.edu.cn to reach me.
 
 
 
